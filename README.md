@@ -9,7 +9,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/abhinit1999/Quiz-App-MERN
+  git clone https://github.com/abhinit1999/Digiaccel-assignment
 ```
 
 Go to the project directory
